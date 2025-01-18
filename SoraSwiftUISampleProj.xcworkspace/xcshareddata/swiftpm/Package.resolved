@@ -1,0 +1,15 @@
+{
+  "originHash" : "ae755b3c6f1e7034d738905abbe01829e5080a34458ac140f0f0ba27e03fa8f1",
+  "pins" : [
+    {
+      "identity" : "sora-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shiguredo/sora-ios-sdk",
+      "state" : {
+        "branch" : "feature/swiftui-view",
+        "revision" : "93db42b8855ad6b6ab8727a3645ea5317781197f"
+      }
+    }
+  ],
+  "version" : 3
+}
